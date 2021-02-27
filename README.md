@@ -1,4 +1,4 @@
-# Info zur Submission
+# Submission information
 
 How to use:  
 -c to start scan  
