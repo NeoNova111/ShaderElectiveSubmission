@@ -1,4 +1,4 @@
-# ShaderElectiveSubmission
+# Info zur Submission
 
 How to use:  
 -c to start scan  
