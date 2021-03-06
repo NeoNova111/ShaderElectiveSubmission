@@ -1,5 +1,7 @@
 # Submission information
 
+based on this: https://www.youtube.com/watch?v=OKoNp2RqE9A
+
 How to use:  
 -c to start scan  
 -on cooldown until max distance is reached  
